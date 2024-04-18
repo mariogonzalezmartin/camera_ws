@@ -1,0 +1,33 @@
+[0.829s] Invoking command in '/home/desktop/camera_ws/src/opencv_tools': PYTHONPATH=/home/desktop/camera_ws/build/opencv_tools/prefix_override:/home/desktop/camera_ws/install/opencv_tools/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/opencv_tools build --build-base /home/desktop/camera_ws/build/opencv_tools/build install --record /home/desktop/camera_ws/build/opencv_tools/install.log --single-version-externally-managed install_data
+[1.121s] running egg_info
+[1.123s] creating ../../build/opencv_tools/opencv_tools.egg-info
+[1.123s] writing ../../build/opencv_tools/opencv_tools.egg-info/PKG-INFO
+[1.123s] writing dependency_links to ../../build/opencv_tools/opencv_tools.egg-info/dependency_links.txt
+[1.123s] writing entry points to ../../build/opencv_tools/opencv_tools.egg-info/entry_points.txt
+[1.124s] writing requirements to ../../build/opencv_tools/opencv_tools.egg-info/requires.txt
+[1.124s] writing top-level names to ../../build/opencv_tools/opencv_tools.egg-info/top_level.txt
+[1.124s] writing manifest file '../../build/opencv_tools/opencv_tools.egg-info/SOURCES.txt'
+[1.126s] reading manifest file '../../build/opencv_tools/opencv_tools.egg-info/SOURCES.txt'
+[1.127s] writing manifest file '../../build/opencv_tools/opencv_tools.egg-info/SOURCES.txt'
+[1.128s] running build
+[1.128s] running build_py
+[1.128s] creating /home/desktop/camera_ws/build/opencv_tools/build
+[1.128s] creating /home/desktop/camera_ws/build/opencv_tools/build/lib
+[1.128s] creating /home/desktop/camera_ws/build/opencv_tools/build/lib/opencv_tools
+[1.128s] copying opencv_tools/__init__.py -> /home/desktop/camera_ws/build/opencv_tools/build/lib/opencv_tools
+[1.128s] running install
+[1.128s] running install_lib
+[1.129s] creating /home/desktop/camera_ws/install/opencv_tools/lib/python3.10/site-packages/opencv_tools
+[1.129s] copying /home/desktop/camera_ws/build/opencv_tools/build/lib/opencv_tools/__init__.py -> /home/desktop/camera_ws/install/opencv_tools/lib/python3.10/site-packages/opencv_tools
+[1.130s] byte-compiling /home/desktop/camera_ws/install/opencv_tools/lib/python3.10/site-packages/opencv_tools/__init__.py to __init__.cpython-310.pyc
+[1.130s] running install_data
+[1.131s] creating /home/desktop/camera_ws/install/opencv_tools/share/ament_index
+[1.131s] creating /home/desktop/camera_ws/install/opencv_tools/share/ament_index/resource_index
+[1.131s] creating /home/desktop/camera_ws/install/opencv_tools/share/ament_index/resource_index/packages
+[1.131s] copying resource/opencv_tools -> /home/desktop/camera_ws/install/opencv_tools/share/ament_index/resource_index/packages
+[1.131s] copying package.xml -> /home/desktop/camera_ws/install/opencv_tools/share/opencv_tools
+[1.131s] running install_egg_info
+[1.134s] Copying ../../build/opencv_tools/opencv_tools.egg-info to /home/desktop/camera_ws/install/opencv_tools/lib/python3.10/site-packages/opencv_tools-0.0.0-py3.10.egg-info
+[1.135s] running install_scripts
+[1.164s] writing list of installed files to '/home/desktop/camera_ws/build/opencv_tools/install.log'
+[1.209s] Invoked command in '/home/desktop/camera_ws/src/opencv_tools' returned '0': PYTHONPATH=/home/desktop/camera_ws/build/opencv_tools/prefix_override:/home/desktop/camera_ws/install/opencv_tools/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/opencv_tools build --build-base /home/desktop/camera_ws/build/opencv_tools/build install --record /home/desktop/camera_ws/build/opencv_tools/install.log --single-version-externally-managed install_data

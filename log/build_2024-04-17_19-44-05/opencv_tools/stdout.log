@@ -1,0 +1,26 @@
+running egg_info
+writing ../../build/opencv_tools/opencv_tools.egg-info/PKG-INFO
+writing dependency_links to ../../build/opencv_tools/opencv_tools.egg-info/dependency_links.txt
+writing entry points to ../../build/opencv_tools/opencv_tools.egg-info/entry_points.txt
+writing requirements to ../../build/opencv_tools/opencv_tools.egg-info/requires.txt
+writing top-level names to ../../build/opencv_tools/opencv_tools.egg-info/top_level.txt
+reading manifest file '../../build/opencv_tools/opencv_tools.egg-info/SOURCES.txt'
+writing manifest file '../../build/opencv_tools/opencv_tools.egg-info/SOURCES.txt'
+running build
+running build_py
+copying opencv_tools/webcam_pub.py -> /home/desktop/camera_ws/build/opencv_tools/build/lib/opencv_tools
+copying opencv_tools/webcam_sub.py -> /home/desktop/camera_ws/build/opencv_tools/build/lib/opencv_tools
+running install
+running install_lib
+copying /home/desktop/camera_ws/build/opencv_tools/build/lib/opencv_tools/webcam_pub.py -> /home/desktop/camera_ws/install/opencv_tools/lib/python3.10/site-packages/opencv_tools
+copying /home/desktop/camera_ws/build/opencv_tools/build/lib/opencv_tools/webcam_sub.py -> /home/desktop/camera_ws/install/opencv_tools/lib/python3.10/site-packages/opencv_tools
+byte-compiling /home/desktop/camera_ws/install/opencv_tools/lib/python3.10/site-packages/opencv_tools/webcam_pub.py to webcam_pub.cpython-310.pyc
+byte-compiling /home/desktop/camera_ws/install/opencv_tools/lib/python3.10/site-packages/opencv_tools/webcam_sub.py to webcam_sub.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/desktop/camera_ws/install/opencv_tools/lib/python3.10/site-packages/opencv_tools-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/opencv_tools/opencv_tools.egg-info to /home/desktop/camera_ws/install/opencv_tools/lib/python3.10/site-packages/opencv_tools-0.0.0-py3.10.egg-info
+running install_scripts
+Installing img_publisher script to /home/desktop/camera_ws/install/opencv_tools/lib/opencv_tools
+Installing img_subscriber script to /home/desktop/camera_ws/install/opencv_tools/lib/opencv_tools
+writing list of installed files to '/home/desktop/camera_ws/build/opencv_tools/install.log'

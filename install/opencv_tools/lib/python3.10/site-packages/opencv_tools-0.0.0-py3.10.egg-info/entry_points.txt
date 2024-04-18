@@ -1,0 +1,4 @@
+[console_scripts]
+img_publisher = opencv_tools.webcam_pub:main
+img_subscriber = opencv_tools.webcam_sub:main
+
